@@ -1,0 +1,62 @@
+{
+    "data": [
+    {
+        "id": 1,
+        "projectTitle": "Live Box",
+        "grantStartDate": "Jul 17, 2022",
+        "grantTerm": "6 Months",
+        "isCapital": false,
+        "goalArea": "Resilient Children",
+        "checkBox": 4,
+        "individualsGoal" : 2,
+        "individualsBrief": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+        "encountersGoal": 2,
+        "encountersBrief": "Massa sed elementum tempus egestas sed sed risus pretium quam",
+        "commonMeasuresGoal": 2,
+        "commonMeasuresBrief": "Et netus et malesuada fames ac turpis egestas maecenas pharetra",
+        "uniqueMeasures": {
+          "output": [{
+            "id": 1,
+            "shortDescription": "Amet risus nullam eget felis eget nunc lobortis mattis",
+            "yearOneGoal": 2
+          }],
+          "outcome": [{
+            "id": 1,
+            "shortDescription": "Massa sed elementum tempus egestas sed sed risus pretium quam",
+            "numerator": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+            "denominator": "Odio ut sem nulla pharetra. Id volutpat lacus laoreet non curabitur",
+            "yearOneGoal": 2
+          }],
+          "milestone": [{
+            "id": 1,
+            "shortDescription": "Lectus arcu bibendum at varius",
+            "dateDue": "July 29, 2022"
+          }]
+        }
+    },
+    {
+        "id": 2,
+        "projectTitle": "Automation Test",
+        "grantStartDate": "Aug 29, 2022",
+        "grantTerm": "12 Months",
+        "isCapital": false,
+        "goalArea": "Clinics as Community Hubs",
+        "checkBox": 2,
+        "individualsGoal" : 3,
+        "individualsBrief": "Et tortor consequat id porta nibh. Sit amet facilisis magna etiam tempor",
+        "encountersGoal": 3,
+        "encountersBrief": "Massa sed elementum tempus egestas sed sed risus pretium quam",
+        "commonMeasuresGoal": 1,
+        "commonMeasuresBrief": "Et netus et malesuada fames ac turpis egestas maecenas pharetra",
+
+        "uniqueMeasures": {
+          "output": [{
+            "id": 1,
+            "shortDescription": "Amet risus nullam eget felis eget nunc lobortis mattis",
+            "yearOneGoal": 5
+          }],
+          "outcome": [],
+          "milestone": []
+        }
+    }]
+}

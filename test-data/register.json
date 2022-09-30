@@ -1,0 +1,12 @@
+{
+	"signup" : {
+		"url": "https://uat-c01-cimetrics-web.azurewebsites.net/register",
+		"email": "newuser",
+		"password": "P@ssword123!",
+		"confirmpassword": "P@ssword123!",
+		"primaryorg": "Sample Organization",
+		"correspondence": "Sample Correspondence",
+		"firstname": "Jerald",
+		"lastname": "Smith"
+	}
+}
